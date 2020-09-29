@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**bbsonjohn/bbsonjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### ✨ Hi there 👋
 
 - 🔭 I’m a physics PhD graduate at Brown University. 
 - 🌱 I’m interested in machine learning, mathematical method in solve market/industry problems.
