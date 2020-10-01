@@ -1,6 +1,6 @@
 ###  Hello! 👋 Welcome to my GitHub! ✨
 
-<img src="me_band.jpg" alt="me" width="392" height="172">
+<img src="me_band.jpg" alt="me" width="522" height="230">
 
 - 🔭 I’m a physics PhD graduate at Brown University. 
 - 🌱 I’m interested in machine learning, mathematical method in solve market/industry problems.
